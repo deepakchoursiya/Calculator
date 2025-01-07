@@ -21,7 +21,7 @@ public static void sub(int a , int s)
 }
 public static void mul(int a , int s)
 {
-  System.out.pritln(a+s);
+  System.out.pritln(a*s);
 }
 
 }
